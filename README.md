@@ -5,7 +5,11 @@ Company Profile TMD Group ID Android App is Android App Company Profile PT Media
 
 Developed using Flutter
 
-Devloped Date: 16 July 2023
+Developed Date: 16 July 2023
+
+Developed by: Ananda Rauf Maududi
+
+Copyright by PT Media Pengembangan Teknologi Indonesia Jaya
 
 
 How to Use in PC?:
@@ -33,6 +37,6 @@ Have any problem?
 
 Contacts me:
 1. [Send Email](https://mailto:anandaraufm@gmai.com)
-2. [Chat Linkedin](https://www.linkedin.com/in/ananda-rauf-maududi-
+2. [Chat Linkedin](https://www.linkedin.com/in/ananda-rauf-maududi-)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
